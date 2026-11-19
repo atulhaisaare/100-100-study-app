@@ -1,0 +1,8 @@
+{
+  "name": "100-100-study-sync-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Secure study-only event ingestion scaffold for the 100/100 CBSE study PWA",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"}
+}
